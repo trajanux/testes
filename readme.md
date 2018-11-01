@@ -53,6 +53,8 @@ Informe quais linguagens de programação foram utilizadas no desenvolvimento da
 
 ## Forma de disponibilização da solução
 Informe como a solução funcional pode ser acessada tanto para fins de avaliação do *Desafio de Inovação* quanto para a posterior disseminação do conhecimento na empresa. **Atenção: para a avaliação do _Desafio de Inovação_, a solução funcional deve estar disponível no período de 26 de novembro a 05 de dezembro de 2018.**
+
+
 |    | Forma de disponibilização | Localização | Usuário | Senha |
 | -- | ----------------- | --- | --- | --- |
 |    | Documento Notebook [1] | http://<Localização dos arquivos no Git> | N/A | N/A |
@@ -60,6 +62,8 @@ Informe como a solução funcional pode ser acessada tanto para fins de avaliaç
 |    | Aplicação web [3] | http://<Endereço de acesso (URL)> |  |  |
 |    | Ferramenta analítica [4] | http://<Endereço de acesso (URL)> |  |  |
 |    | <Outra forma (especificar)> |  |  |
+
+
 - [1] No repositório Git deve ser gravado o "Documento Notebook" tanto no formato de código fonte (ex: *.ipynb, *.json, *.Rmd) quanto no formato já executado (HTML ou PDF), contendo código, texto explicativo, fórmulas matemáticas, tabelas, plotagens, imagens, etc.
 - [2] No repositório Git deve ser gravado o código fonte do script e instruções detalhadas para a sua execução. A instalação e configuração das dependências e/ou bibliotecas necessárias à execução do script deve ser automatizada.
 - [3] O ambiente de hospedagem da aplicação web é de inteira responsabilidade da equipe, devendo ser disponibilizado na Intranet do SERPRO. A aplicação web pode ser projetada para acesso com ou sem autenticação do usuário. Em caso de ser necessária autenticação, os dados de usuário e senha devem ser informados na tabela acima. No repositório Git deve ser gravado o código fonte da aplicação web e instruções detalhadas para a sua instalação.
@@ -67,6 +71,8 @@ Informe como a solução funcional pode ser acessada tanto para fins de avaliaç
 
 # Bases de dados utilizadas
 Informe quais bases de dados foram utilizadas na solução (marcar um "X" na primeira coluna e especificar quais informações dessas foram usadas):
+
+
 |    | Base de dados     | Informações utilizadas (especificar os nomes das tabelas) |
 | -- | ----------------- | ------------------------------ |
 |    | a) Nota Fiscal Eletrônica - NF-e |  |
@@ -84,10 +90,14 @@ Informe quais bases de dados foram utilizadas na solução (marcar um "X" na pri
 |    | m) Divisão político-administrativa dos territórios brasileiros |  |
 |    | n) Índice de Desenvolvimento Humano Municipal - IDHM |  |
 |    | <Outra base de dados (especificar URL para obtenção dos dados)> |  |
+
+
 Os modelos de dados das bases estão disponibilizados no link: http://gbd.desafioinovacao.serpro/bases/
 
 # Eixos de interesse aplicados
 Informe quais eixos de interesse foram aplicados na solução (marcar um "X" na primeira coluna):
+
+
 |    | Eixo de interesse |
 | -- | ----------------- |
 |    | a) Agrupamento (_clustering_) |
@@ -103,17 +113,25 @@ Informe quais eixos de interesse foram aplicados na solução (marcar um "X" na 
 |    | k) Processamento de Linguagem Natural (_Natural language processing - NLP_) |
 |    | l) Redes neurais |
 |    | m) Regressão |
+
+
 ### Técnicas e/ou algoritmos aplicados
 Informe quais técnicas e/ou algoritmos relacionados aos eixos de interesse escolhidos foram aplicados na solução (marcar um "X" na primeira coluna e especificar a localização do respectivo código no repositório Git):
+
+
 |    | Eixo de interesse | Nome da técnica/algoritmo | Localização no código (caminho do arquivo : número da linha) |
 | -- | ---- | ----------------- | ----------------- |
 |  | <Ex: Classificação> | <Ex: Apriori> | <Ex: "diretorio/arquivo.extensao : 115"> |
 |  | ... | ... | ... |
+
+
 ## Assertividade do modelo
 <Informe qual foi a assertividade obtida com o modelo, de acordo com a técnica e/ou algoritmo aplicado>
 
 # INFORMAÇÕES SOBRE A EQUIPE
 ## Membros da equipe
+
+
 | Nome completo | Lotação |
 | ------------- | ------- |
 | <Nome completo> | <Lotação> |
