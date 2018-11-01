@@ -57,9 +57,9 @@ Informe como a solução funcional pode ser acessada tanto para fins de avaliaç
 | -- | ----------------- | --- | --- | --- |
 |    | Documento Notebook [1] | http://<Localização dos arquivos no Git> | N/A | N/A |
 |    | Script em linha de comando [2] | http://<Localização dos arquivos no Git> | N/A | N/A |
-|    | Aplicação web [3] | http://<Endereço de acesso (URL)> |||
-|    | Ferramenta analítica [4] | http://<Endereço de acesso (URL)> |||
-|    | <Outra forma (especificar)> |||
+|    | Aplicação web [3] | http://<Endereço de acesso (URL)> |  |  |
+|    | Ferramenta analítica [4] | http://<Endereço de acesso (URL)> |  |  |
+|    | <Outra forma (especificar)> |  |  |
 - [1] No repositório Git deve ser gravado o "Documento Notebook" tanto no formato de código fonte (ex: *.ipynb, *.json, *.Rmd) quanto no formato já executado (HTML ou PDF), contendo código, texto explicativo, fórmulas matemáticas, tabelas, plotagens, imagens, etc.
 - [2] No repositório Git deve ser gravado o código fonte do script e instruções detalhadas para a sua execução. A instalação e configuração das dependências e/ou bibliotecas necessárias à execução do script deve ser automatizada.
 - [3] O ambiente de hospedagem da aplicação web é de inteira responsabilidade da equipe, devendo ser disponibilizado na Intranet do SERPRO. A aplicação web pode ser projetada para acesso com ou sem autenticação do usuário. Em caso de ser necessária autenticação, os dados de usuário e senha devem ser informados na tabela acima. No repositório Git deve ser gravado o código fonte da aplicação web e instruções detalhadas para a sua instalação.
@@ -69,21 +69,21 @@ Informe como a solução funcional pode ser acessada tanto para fins de avaliaç
 Informe quais bases de dados foram utilizadas na solução (marcar um "X" na primeira coluna e especificar quais informações dessas foram usadas):
 |    | Base de dados     | Informações utilizadas (especificar os nomes das tabelas) |
 | -- | ----------------- | ------------------------------ |
-|    | a) Nota Fiscal Eletrônica - NF-e ||
-|    | b) Estatísticas de comércio exterior - Comex Stat ||
-|    | c) Quadros societários e de administradores das pessoas jurídicas ||
-|    | d) Compras governamentais - Compras sem licitação ||
-|    | e) Transferências voluntárias da União (convênios) - SICONV ||
-|    | f) Transferências constitucionais para estados e municípios ||
-|    | g) Pagamentos do Programa Bolsa Família - PBF ||
-|    | h) Prestações de contas de campanhas eleitorais ||
-|    | i) Exame Nacional do Ensino Médio ||
-|    | j) Censo da Educação Superior ||
-|    | k) Produto Interno Bruto dos municípios brasileiros ||
-|    | l) População estimada dos municípios brasileiros ||
-|    | m) Divisão político-administrativa dos territórios brasileiros ||
-|    | n) Índice de Desenvolvimento Humano Municipal - IDHM ||
-|    | <Outra base de dados (especificar URL para obtenção dos dados)> ||
+|    | a) Nota Fiscal Eletrônica - NF-e |  |
+|    | b) Estatísticas de comércio exterior - Comex Stat |  |
+|    | c) Quadros societários e de administradores das pessoas jurídicas |  |
+|    | d) Compras governamentais - Compras sem licitação |  |
+|    | e) Transferências voluntárias da União (convênios) - SICONV |  |
+|    | f) Transferências constitucionais para estados e municípios |  |
+|    | g) Pagamentos do Programa Bolsa Família - PBF |  |
+|    | h) Prestações de contas de campanhas eleitorais |  |
+|    | i) Exame Nacional do Ensino Médio |  |
+|    | j) Censo da Educação Superior |  |
+|    | k) Produto Interno Bruto dos municípios brasileiros |  |
+|    | l) População estimada dos municípios brasileiros |  |
+|    | m) Divisão político-administrativa dos territórios brasileiros |  |
+|    | n) Índice de Desenvolvimento Humano Municipal - IDHM |  |
+|    | <Outra base de dados (especificar URL para obtenção dos dados)> |  |
 Os modelos de dados das bases estão disponibilizados no link: http://gbd.desafioinovacao.serpro/bases/
 
 # Eixos de interesse aplicados
