@@ -29,10 +29,10 @@
 Informe quais ferramentas foram utilizadas para a construção da solução (marcar um "X" na primeira coluna e especificar a *Versão*):
 |    | Ferramenta        | Versão |
 | -- | ----------------- | ------ |
-|    | a) Jupyter | |
-|    | b) RStudio |  |
-|    | c) Zeppelin |  |
-|    | <Outra (especificar)> | |
+|    | a) Jupyter        |        |
+|    | b) RStudio        |        |
+|    | c) Zeppelin       |        |
+|    | <Outra (especificar)> |      |
 As informações de acesso e exemplos de uso estão disponibilizadas em:  https://git.serpro/desafio-inovacao/equipe00/
 
 ## Linguagens de programação utilizadas
